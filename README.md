@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="PavelGithubCoverPhoto" src="https://github.com/user-attachments/assets/04c42f35-1099-4033-aa1f-78946c4dc5f1" />
+
 <h1 align="center">Hi 👋, I'm Pavel Ahammed</h1>
 <h3 align="center">Learinging Full Stack Development</h3>
 
