@@ -44,15 +44,21 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
 
 ## 🌱 Currently Learning
 
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Git & GitHub
-- Backend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Brave_Browser-FB542B?logo=brave&logoColor=white" alt="Brave Browser">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" alt="Prettier">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
 ---
 ## 📡 FOLLOW ME ON SOCIALS
@@ -151,34 +157,6 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
 
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
-### 🔗 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pavelsolutions&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pavelsolutions&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-### 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelsolutions&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 ### 🔥 Contribution Streak
 
 <p align="center">
@@ -190,14 +168,4 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
 
 ---
 
-## 📌 What I'm Working On
-
-🔹 Building small projects with **JavaScript**  
-🔹 Learning **TypeScript** and writing type-safe applications  
-🔹 Building user interfaces with **React**  
-🔹 Learning backend development with **Node.js & Express.js**  
-🔹 Working with databases and APIs  
-🔹 Improving my Git and GitHub workflow
-
----
 
