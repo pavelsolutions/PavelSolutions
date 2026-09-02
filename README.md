@@ -61,27 +61,6 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
 </p>
 
 ---
-## 📡 FOLLOW ME ON SOCIALS
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="YOUR_DISCORD_URL">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord">
-  </a>
-  &nbsp;
-  <a href="YOUR_DEVTO_URL">
-    <img src="https://skillicons.dev/icons?i=devto" width="45" alt="Dev.to">
-  </a>
-  &nbsp;
-  <a href="YOUR_STACKOVERFLOW_URL">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" alt="Stack Overflow">
-  </a>
-</p>
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -151,6 +130,25 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
   <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
   <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman">
   <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker">
+</p>
+
+---
+
+## 📍 Where to find me
+
+<p>
+  <a href="https://github.com/pavelsolutions">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_MEDIUM_URL">
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 ---
