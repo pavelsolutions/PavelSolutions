@@ -54,8 +54,6 @@ Hi, I'm **Pavel Ahammed**, a passionate learner on my journey to becoming a **Fu
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Brave_Browser-FB542B?logo=brave&logoColor=white" alt="Brave Browser">
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" alt="Prettier">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
 </p>
